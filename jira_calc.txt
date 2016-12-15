@@ -1,0 +1,8 @@
+http://qa-lab.cloud-pro.ru:8081/browse/CT-17
+http://qa-lab.cloud-pro.ru:8081/browse/CT-18
+http://qa-lab.cloud-pro.ru:8081/browse/CT-19
+http://qa-lab.cloud-pro.ru:8081/browse/CT-20
+http://qa-lab.cloud-pro.ru:8081/browse/CT-21
+http://qa-lab.cloud-pro.ru:8081/browse/CT-29
+http://qa-lab.cloud-pro.ru:8081/browse/CT-30
+http://qa-lab.cloud-pro.ru:8081/browse/CT-31
